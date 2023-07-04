@@ -8,13 +8,13 @@ El repositorio está organizado de la siguiente manera:
 
 - **ejercicio-1-2-3-4**: Contiene el teorico de los primeros 4 ejercicios.
 - **ejercicio-5**: Contiene el código del ejercicio 5.
+- **carpeta ejercicio-6**: Contiene 3 archivos TypeScript con los códigos fuentes y un archivo README.md que explica el enunciado del ejercicio 6 y la solución propuesta.
 - **ejercicio-7**: Contiene el código del ejercicio 7.
 - **ejercicio-8**: Contiene el código del ejercicio 8.
 - **ejercicio-9**: Contiene el código del ejercicio 9.
-- **ejercicio-9**: Contiene el código del ejercicio 10.
-- **ejercicio-9**: Contiene el código del ejercicio 11.
-- **ejercicio-9**: Contiene el código del ejercicio 12.
-- **carpeta ejercicio-6**: Contiene 3 archivos TypeScript con los códigos fuentes y un archivo README.md que explica el enunciado del ejercicio 6 y la solución propuesta.
+- **ejercicio-10**: Contiene el código del ejercicio 10.
+- **ejercicio-11**: Contiene el código del ejercicio 11.
+- **ejercicio-12**: Contiene el código del ejercicio 12.
 
 ## Requisitos
 
