@@ -24,7 +24,7 @@ npm install
 1. Compila el proyecto ejecutando el siguiente comando en la terminal:
 
 ```bash
-npm run build
+tsc main.ts
 ```
 
 2. Ejecuta el archivo JavaScript principal con el siguiente comando:
